@@ -1,4 +1,4 @@
-# Email Sender Script
+# Send Dataframe in Email as Excel
 
 This script sends an email with a DataFrame attached as an Excel file.
 
